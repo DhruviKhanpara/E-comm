@@ -47,7 +47,7 @@ This single HTML page includes:
 
 ## 🚀 How to Run
 
-1. **Clone this repository** or [Download ZIP]()
+1. **Clone this repository** or [Download ZIP](https://github.com/DhruviKhanpara/E-comm/archive/refs/heads/main.zip)
 2. Make sure all media files are placed correctly in the `media/` folder.
 3. Open `index.html` in any web browser.
 4. Done! No installation or server needed.
